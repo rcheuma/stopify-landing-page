@@ -3,6 +3,10 @@ main:
   name: Accueil
   url: 
   weight: 1
+- identifier: faq
+  name: FAQ
+  url: faq
+  weigh: 2
 - identifier: contact
   name: Contact
   url: contact/
