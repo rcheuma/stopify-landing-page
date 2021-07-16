@@ -3,7 +3,7 @@
 set -e
 set -u
 
-HUGO_VERSION="0.81.0"
+HUGO_VERSION="0.85.0"
 HUGO_ARCH="64bit"
 HUGO_PATH="/usr/local/bin"
 
