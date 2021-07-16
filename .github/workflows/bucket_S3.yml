@@ -24,7 +24,7 @@ jobs:
       - name: Build
         run: hugo --minify -e s3-pages -s website
         
-       -name: Deploy
+      - name: Deploy
         uses: jakejarvis/s3-sync-action@master
         with: 
           args: --acl public-read --delete
