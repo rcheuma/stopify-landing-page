@@ -1,4 +1,4 @@
-baseURL: http://stopify.fr/
+baseURL: http://stopify-20210716113720334100000001.s3-website.eu-west-3.amazonaws.com
 title: Stopify
 theme: bigspring
 defaultContentLanguage: fr
