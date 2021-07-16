@@ -1,0 +1,23 @@
+logo: images/logo.png
+logo_width: 200px
+description: Stopify
+contact_form_action: / # contact form works with https://formspree.io
+
+preloader:
+  enable: false
+  preloader:  # use jpg, png, svg or gif format.
+
+navigation_button:
+  enable: false
+  label: Get Started
+  link: contact
+
+variables:
+  primary_color: "#fc5474"
+  text_color: "#777"
+  text_color_dark: "#1414ac"
+  body_color: "#fff"
+  border_color: "#ECECEC"
+  black: "#000"
+  white: "#fff"
+  light: "#eaf3fa"
