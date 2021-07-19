@@ -1,5 +1,5 @@
 # Refer https://github.com/#configuration for documentation
 
 urls:
-  - path: "https://google.com"
+  - path: "https://rcheuma.github.io/stopify-landing-page/"
     type: "get"
