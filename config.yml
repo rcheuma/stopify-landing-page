@@ -1,0 +1,5 @@
+# Refer https://github.com/#configuration for documentation
+
+urls:
+  - path: "https://google.com"
+    type: "get"
